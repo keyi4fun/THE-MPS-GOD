@@ -14,6 +14,22 @@
 
 **本文不做任何排版，若您感到不舒服请停止阅读。**
 
+## 前情提要
+
+本文中出现的所有人名均指代以下人士。为了对方的隐私安全，故不放出 QQ 号与昵称。
+
+### 莫老
+
+![image](https://user-images.githubusercontent.com/53771072/232274451-eacfa716-8112-4588-ab97-f9deeb62084d.png)
+
+## Sakura 女士
+
+![image](https://user-images.githubusercontent.com/53771072/232274401-e8af3c99-07a2-4a75-8935-1f3b222f67cc.png)
+
+## 收银员
+
+![image](https://user-images.githubusercontent.com/53771072/232274411-ded156bf-d0f0-497d-8f52-24618d906ccb.png)
+
 ## 起因
 
 2023 年 3 月, Mohist 开发组宣布了全球首款重写版多线程高并发核心：MPS。
