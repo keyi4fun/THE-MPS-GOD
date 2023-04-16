@@ -89,3 +89,17 @@ entityList.forEach(entity -> {
 这位 "收银员" 的智商我们不得而知，也不知道他是在什么精神状态下发出了如此无脑的话语来保护他的 Mohist 开发组大爹。
 
 我不想在别人的地盘惹麻烦，因此我打算到了他们发布的日子再次询问。
+
+Sakura 女士是否真的了解 Minecraft 服务器，我们不得而知：
+
+![Screenshot_2023_0416_141048](https://user-images.githubusercontent.com/53771072/232275324-0acd93e8-d3a3-4681-91fa-aa029a3370bd.jpg)
+
+"收银员" 辩护 Mohist 大爹的截图：
+
+![{X$L)BO78Q5 A%SO0_BWGLR](https://user-images.githubusercontent.com/53771072/232275255-1de7d699-8602-4caa-b3d0-2c0668ab616f.jpg)
+
+## 发酵
+
+在这途中，有许多人购买了 MPS。
+
+以下为 MPS 发布时的价格截图：
