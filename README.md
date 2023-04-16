@@ -110,19 +110,29 @@ Sakura 女士是否真的了解 Minecraft 服务器，我们不得而知：
 
 以下为 MPS 发布时的价格截图与购买页面。
 
-*这些页面在后来被修改了。后续会提到。*
+最初购买地址为: https://buy.mcvps.net/, 并且标准版价格为80r一个月
+
+随后购买地址变为: https://mohistmc.shop/
+
+*这些页面在后来被修改了，价格也是多次降价。后续会提到。*
 
 ![1](https://user-images.githubusercontent.com/53771072/232276540-a42fea80-759c-4ca9-8ee0-57faf2e0d966.jpg)
 ![2](https://user-images.githubusercontent.com/53771072/232276542-09e1cc00-3a4f-4983-a66b-db0918f86634.jpg)
-![3](https://user-images.githubusercontent.com/53771072/232276543-96711069-1b7f-4413-a1ee-ca58e0cc77f8.jpg)
-![4](https://user-images.githubusercontent.com/53771072/232276546-2a6375ac-b709-4979-81f6-5d9a2bba599d.jpg)
-![5](https://user-images.githubusercontent.com/53771072/232276549-73879cda-8195-4484-81c9-6068b7380ba0.jpg)
+![3](https://user-images.githubusercontent.com/53771072/232276546-2a6375ac-b709-4979-81f6-5d9a2bba599d.jpg)
+![4](https://user-images.githubusercontent.com/53771072/232276549-73879cda-8195-4484-81c9-6068b7380ba0.jpg)
 
-本人家境贫寒，无法购买 MPS。只能靠着一张嘴来抨击了。不过这是我的好伙伴的购买截图。
+以上是当初购买页面的一些截图(并不是一开始的价格)
+
+随后多次降价(WIP待修改)
+
+![image](./img/15397E889ABAB53055324B616B616802.png)
+
+本人家境贫寒，无法购买 MPS。只能靠着一张嘴来抨击了。不过这是我的好伙伴的购买证据。
 
 ![image](https://user-images.githubusercontent.com/53771072/232276625-dc203876-5990-4f5e-8842-b2624a1760f9.png)
+![image](./img/EE52454F7277CDA9DA09A853039E8455.png)
 
-有一个订单显示过期是因为最初购买的时候付款了但是订单出现了故障，经过极其长的等待我们终于联系上了 Sakura 女士 并让她为我们修复订单问题。
+有两个订单显示过期是因为最初购买的时候付款了但是订单出现了故障，经过极其长的等待我们终于联系上了 Sakura 女士 并让她为我们进行了补单操作。
 
 转眼间到了发布的日子。可是我们的 MPS 开发组似乎并没有完成项目并拖到了 2023 年 4 月 15 日。
 
@@ -131,7 +141,7 @@ Sakura 女士是否真的了解 Minecraft 服务器，我们不得而知：
 
 我曾进入群询问，可没有得到开发组的答复。
 
-*此处他们多次说：重写验证后端。但实际上服务端本身并不包含任何验证，只有在下载的时候会检测 IP 地址。*
+*此处他们多次说：重写验证后端。但发布后我们发现，服务端实际上本身并不包含任何验证，只有在其官网下载核心的时候会检测 IP 地址。*
 
 *他们的下载页面使用到了 vue.js。让人怀疑这么长的时间是不是拿去学习 vue.js 了。*
 
@@ -181,11 +191,15 @@ Sakura 女士是否真的了解 Minecraft 服务器，我们不得而知：
 
 文档页面也改成了这样，去除了图片。
 
+核心的部分介绍也与发布前的宣传前后矛盾，发布前开发阶段中的 `已完成村民ai，红石异步完全重写` 在发布后的介绍中神秘消失，这是为什么呢？
+
 ![image](https://user-images.githubusercontent.com/53771072/232278198-de538417-897b-4a94-a357-73587f606083.png)
 
 同时，继续下调价格。
 
 ![image](https://user-images.githubusercontent.com/53771072/232278238-cf606582-aeb4-44ae-a33b-8005770be14b.png)
+
+## 核心分析
 
 *以下的内容足够重磅，请准备好。*
 
@@ -214,6 +228,9 @@ MPS 怎么把 Airplane 据为己有了？
 ![image](https://user-images.githubusercontent.com/53771072/232278611-b18415ad-b2f6-4de4-b314-68dd92a213ff.png)
 
 您的宣传图就是使用村民测试的吧？
+
+宣传时，开发阶段中的`村民ai优化`也是已完成的吧？
+
 而且，为什么村民测试是违规的，这难道不意味着 MC 占用大头之一的村民没有得到任何优化吗？
 
 ![image](https://user-images.githubusercontent.com/53771072/232278662-0f7b0c10-bdff-4d3c-aee3-e75335c42792.png)
