@@ -20,7 +20,7 @@
 
 ### 莫老
 
-![image](https://user-images.githubusercontent.com/53771072/232274451-eacfa716-8112-4588-ab97-f9deeb62084d.png)
+![image](https://user-images.githubusercontent.com/53771072/232274527-27858c4c-4d40-406f-b2ae-860ed14b8d82.png)
 
 ## Sakura 女士
 
